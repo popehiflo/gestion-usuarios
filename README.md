@@ -11,7 +11,7 @@ Gestionara usuarios en el sistema.
 ### Backend:
     Java (Spring)
 ### Frontend: 
-    HTML, CSS, JS
+    HTML, CSS, JS - Template SB Admin 2
 ## Backend Spring construido con 🛠️
 * [JWT](https://jwt.io/) - Permite decodificar, verificar y generar JWT
 
