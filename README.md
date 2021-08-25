@@ -1,7 +1,10 @@
 # Fullstack Gestion de Usuarios  💻
 **Sistema de gestión de usuarios**    
 _Aplicación web para la gestion de usuarios en el sistema (punto de inicio para un sistema)._   
-`Inyección de dependencias`, `Maven`, `JWT`, `API REST`, `Springboot`, `Hibernate`, `Git`, `HTML`, `CSS`, `JS`.     
+- Estilo de `arquitectura REST`,  
+- Patron de desarrollo de software `Inyección de dependencias`, 
+- Otros detalles: `Maven`, `JWT`, `API REST`, `Springboot`, `Hibernate`, `Git`, `HTML`, `CSS`, `JS`.  
+
 Gestionara usuarios en el sistema.
 * Autenticacion - JSON Web Token
 * Login
@@ -16,8 +19,7 @@ Gestionara usuarios en el sistema.
 * [JWT](https://jwt.io/) - Permite decodificar, verificar y generar JWT
 
 ## Codigo Fuente 📁
-* [Backend Spring - API REST](backend)
-* Frontend
+* [Backend Spring - API REST](/usuario)
 
 ## Licencia 📄
 ...   
